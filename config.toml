@@ -3,7 +3,7 @@ title = "mb's blog"
 theme ="hugo-theme-basic"
 languageCode = "en-us"
 enableEmoji = true 
-copyright = "© 2016-19 <a href='https://github.com/siegerts/hugo-theme-basic'>Hugo Theme Basic</a>. Made by <a href='https://twitter.com/siegerts'>@siegerts</a>."
+copyright = "© 2016-19 <a href='https://github.com/siegerts/hugo-theme-basic'>Hugo Theme Basic</a>. Made by <a href='https://twitter.com/siegerts'>@siegerts</a>. </br><a href='impressum'>Impressum</a>'"
 description = "Basic personal site theme styled with minimal tachyons, syntax highlighting, and blog series configuration."
 
 [taxonomies]
@@ -17,21 +17,15 @@ description = "Basic personal site theme styled with minimal tachyons, syntax hi
   twitter = "mbauhardt"
 
 [Permalinks]
-  post = "post/:slug"
+  post = "post/:year/:month/:day/:slug"
 
 [[params.menu]]
   name = "blog"
-  url = "posts/"
+  url = "post/"
 
 [[params.menu]]
   name = "post series"
   url = "series/"
-  
-
-[[params.menu]]
-  name = "impressum"
-  url = "impressum/"
-  
 
 [privacy]
   [privacy.googleAnalytics]
