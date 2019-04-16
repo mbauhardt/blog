@@ -60,7 +60,7 @@ I bought some retro style keycaps with an OEM profile.
 <a href="/IMG_0086.JPG"><img src="/IMG_0086.JPG" width="300"/></a>
 <a href="/IMG_0090.JPG"><img src="/IMG_0090.JPG" width="300"/></a>
 
-I build also two cheap palm rest of wood.
+I built also two cheap palm rest of wood.
 
 <a href="/IMG_0093.JPG"><img src="/IMG_0093.JPG" width="300"/></a>
 <a href="/IMG_0091.JPG"><img src="/IMG_0091.JPG" width="300"/></a>
