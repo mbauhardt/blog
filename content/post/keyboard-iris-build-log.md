@@ -1,7 +1,7 @@
 ---
 title: "Iris Keyboard Build Log"
 date: 2019-04-16
-draft: true
+series: ["Keyboard"]
 ---
 
 Last year I started to type with a mechanical keyboard.
@@ -20,12 +20,12 @@ vortex core based on a config file. I have to press some
 keystrokes to reorder my keys.
 
 In addition to the programming mode I tried to learn to
-use my 10 finger system instead my own 5.75 finger
+use my 10 fingers instead my own 5.75 finger
 system. But I had the feeling the staggered layout is not
 the right one for me.
 
 A colleague of mine point me to his keyboard. [Planck
-Keyboard](https://olkb.com/planck). A tiny programmable
+Keyboard](https://olkb.com/planck), a tiny programmable
 ortholinear keyboard. I wanted to buy me the same
 keyboard. But in addition to this I wanted to go one step
 further. I thought a splittable keyboard is more
@@ -36,8 +36,8 @@ But somehow the [Iris from
 keeb.io](https://keeb.io/products/iris-keyboard-split-ergonomic-keyboard?variant=8034004860958)
 was more impressive.
 
-So I decided to buy one. Inclusive stainless steel plate, a acrylic
-middle layer clear and tented, cherry-mx switches clear.
+So I decided to buy an iris keyboard. Inclusive stainless steel plate,
+an acrylic middle layer clear and tented, cherry-mx switches clear.
 
 Start to solder the diodes and the arduino Pro Micro.
 Using kapton tape on top of trrs jack's and the Pro Micro because i'm
