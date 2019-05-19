@@ -1,6 +1,7 @@
 ---
 title: "Iris Querty Layout"
 date: 2019-05-12T16:49:33+02:00
+series: ["Keyboard"]
 ---
 
 ## Iris default QUERTY layout
