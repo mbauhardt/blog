@@ -115,3 +115,10 @@ Regenerate the configs
 		$ exit
 		$ reboot
 
+
+## Resources
+
+* https://docs.voidlinux.org/installation/guides/fde.html
+* https://gist.github.com/gbrlsnchs/9c9dc55cd0beb26e141ee3ea59f26e21
+
+
